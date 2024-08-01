@@ -6,6 +6,9 @@ public class Basic {
 
 		System.out.println("Kannaya is a good boy");
 		System.out.println("Ramesh is a Old bad  Men");
+		System.out.println("Changing Ramesh is a Old bad  Men");
+		System.out.println("Changing Kannaya is a Old bad  Men");
+		
 	}
 
 }
